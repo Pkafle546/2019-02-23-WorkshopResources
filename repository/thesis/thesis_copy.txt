@@ -1,0 +1,7 @@
+
+hello world
+
+thesis
+
+hit Ctrl+o to sae then enter
+hit Ctrl+x to exit
